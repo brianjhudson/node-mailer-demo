@@ -2,5 +2,10 @@
 
 module.exports = {
    email: "",
-   password: ""
+   password: "",
+   SENDGRID_API_KEY: "",
+   NEXMO_API_KEY: "",
+   NEXMO_API_SECRET: "",
+   NEXMO_VIRTUAL_NUMBER: ""
+
 }
